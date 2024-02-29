@@ -1,0 +1,3 @@
+C:/Users/rafae/CLionProjects/TreeBinary/cmake-build-debug/CMakeFiles/TreeBinary.dir
+C:/Users/rafae/CLionProjects/TreeBinary/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/rafae/CLionProjects/TreeBinary/cmake-build-debug/CMakeFiles/rebuild_cache.dir
